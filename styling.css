@@ -1,0 +1,26 @@
+#name{ border-style: groove;
+    width: 350px;
+
+}
+#last{border-block-style: outset;
+    margin: 20px 0px;
+    width: 350px;
+
+}
+#email{border-block-style: outset;
+    margin: 20px 0px;
+    width: 350px;
+}
+#feedback{border-block-style: groove;
+    margin: 20px 0px;
+    width: 350px;
+
+}
+#emotions{border-block-style: groove;
+    margin: 20px 0px;
+    width: 350px;
+
+}
+#satisfied{border-block-style: groove;
+    margin: 20px 0px;
+    width: 350px;
